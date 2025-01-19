@@ -50,7 +50,7 @@ Ensure all dependencies in package.json are successfully installed before runnin
    - Ensure your Android emulator is running or connect a physical device via USB (with USB debugging enabled).
 
 ## Preview
-![Weather App Preview](https://github.com/akankshasapate/Weather-Predictor.git/blob/main/app.png)
+![Weather App Preview](https://github.com/akankshasapate/Weather-Predictor/blob/main/app.png)
 
 
 ## Usage
